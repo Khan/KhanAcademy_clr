@@ -2,7 +2,7 @@
 
 Access the Khan Academy colors from your OS X color picker:
 
-![Animation of accessing colors via the color picker](https://dl.dropboxusercontent.com/s/90u1r4aeho7zj6r/FE8991CC-153E-47CB-B269-E9A6C5B7E6D5-657-000000DD18AA9025.gif)
+![Animation of accessing colors via the color picker](https://raw.githubusercontent.com/Khan/KhanAcademy_clr/master/README.gif)
 
 ## Installation
 
